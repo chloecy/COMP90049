@@ -1,2 +1,6 @@
-# COMP90049
-Knowledge Technology Assignments: Lexical Normalisation of Twitter Data &amp; Identify Tweets with ADR
+# COMP90049 Knowledge Technology Assignments: 
+1. Lexical Normalisation of Twitter Data 
+2. Identify Tweets with ADR
+
+University of Melbourne
+Semester2 2017
